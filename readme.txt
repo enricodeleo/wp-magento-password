@@ -25,7 +25,7 @@ For any issues or feature requests, please use the support forum. Contributions 
 
 == Installation ==
 
-1. Upload `wp-magento-password` folder to the `/wp-content/plugins/` directory
+1. Upload `magento-password` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
