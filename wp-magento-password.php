@@ -1,11 +1,10 @@
 <?php
 /**
-  * Plugin Name: Admin Columns Pro
+  * Plugin Name: WP Magento Password
   * Version: 1.0.0
-  * Description: Customize columns on the administration screens for post(types), users and other content. Filter and sort content, and edit posts directly from the posts overview. All via an intuitive, easy-to-use drag-and-drop interface.
+  * Description: This plugin allows WordPress to authenticate users with password hashes imported from a Magento 2 database, enabling seamless integration between the two platforms.
   * Author: AdminColumns.com
-  * Author URI: https://www.admincolumns.com
-  * Plugin URI: https://www.admincolumns.com
+  * Author URI: https://enricodeleo.com
   * Requires PHP: 7.2
   * Requires at least: 5.5
   */
