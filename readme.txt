@@ -13,9 +13,9 @@ This plugin allows WordPress to authenticate users with password hashes imported
 
 == Description ==
 
-The Magento 2 Password Integration plugin is designed to bridge the gap between Magento 2 and WordPress user authentication systems. It enables WordPress to recognize and authenticate users with password hashes that have been imported from a Magento 2 database.
+This plugin is designed to bridge the gap between Magento 2 and WordPress user authentication systems. It enables WordPress to recognize and authenticate users with password hashes that have been imported from a Magento 2 database.
 
-This plugin is particularly useful for website owners who are migrating from Magento 2 to WordPress or running both platforms concurrently. It eliminates the need for users to reset their passwords or create new accounts, providing a seamless user experience.
+This plugin is particularly useful for website owners who are migrating from Magento 2 to WordPress. It eliminates the need for users to reset their passwords or create new accounts, providing a seamless user experience.
 
 The plugin uses the Sodium Crypto library to replicate Magento 2's password hashing algorithm, ensuring that all password hashes are processed securely. It's easy to install and doesn't require any modifications to your WordPress or Magento installations.
 

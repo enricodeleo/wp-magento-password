@@ -1,12 +1,13 @@
 <?php
 /**
-  * Plugin Name: Magento Password Migration
+  * Plugin Name: Password Migration Magento
   * Version: 1.0.0
   * Description: This plugin allows WordPress to authenticate users with password hashes imported from a Magento 2 database, enabling seamless integration between the two platforms.
-  * Author: AdminColumns.com
+  * Author: Enrico Deleo
   * Author URI: https://enricodeleo.com
   * Requires PHP: 7.2
   * Requires at least: 5.5
+  * License: GPLv2 or later
   */
 
 add_filter('wp_authenticate_user', function($user, $password) {
