@@ -1,14 +1,5 @@
 # Password Migration Magento
 
-Donate link: [Support me on Patreon](https://patreon.com/enricodeleo)
-Tags: migration, magento, login, authentication
-Requires at least: 5.5
-Tested up to: 6.2.2
-Stable tag: 6.0
-Requires PHP: 7.2
-License: GPLv2 or later
-License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
-
 This plugin allows WordPress to authenticate users with password hashes imported from a Magento 2 database, enabling seamless integration between the two platforms.
 
 ## Description
